@@ -2,11 +2,11 @@
 
 适用于 Docker 版的 CatWrt，和普通固件使用上可能有差别
 
-<https://www.miaoer.xyz/posts/network/1panel-deploy-catwrt-rootfs>
+<https://www.miaoer.net/posts/network/1panel-deploy-catwrt-rootfs>
 
 ```
-$ wget https://service.miaoer.xyz/CatWrt-rootfs/docker-compose.yml
-# wget -P  /opt/1panel/docker/compose/CatWrt/ https://service.miaoer.xyz/CatWrt-rootfs/docker-compose.yml
+$ wget https://raw.miaoer.net/CatWrt-rootfs/docker-compose.yml
+# wget -P  /opt/1panel/docker/compose/CatWrt/ https://raw.miaoer.net/CatWrt-rootfs/docker-compose.yml
 
 $ docker compose up -d
 ```
