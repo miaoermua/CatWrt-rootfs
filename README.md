@@ -11,6 +11,8 @@ $ wget https://raw.miaoer.net/CatWrt-rootfs/docker-compose.yml
 $ docker compose up -d
 ```
 
+---
+
 ## 软件源
 
 适用于本地 CatWrt 的软件源，本地部署可减少依赖在线服务
